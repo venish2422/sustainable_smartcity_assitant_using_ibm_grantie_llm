@@ -1,1 +1,1 @@
-# sustainable_smartcity_assitant_using_ibm_grantie_llm
+# sustainable_smartcity
